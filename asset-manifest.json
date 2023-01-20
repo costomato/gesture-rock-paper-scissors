@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/gesture-rock-paper-scissors/static/js/main.acb57cbb.js",
+    "index.html": "/gesture-rock-paper-scissors/index.html",
+    "main.acb57cbb.js.map": "/gesture-rock-paper-scissors/static/js/main.acb57cbb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.acb57cbb.js"
+  ]
+}
